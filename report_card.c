@@ -16,6 +16,9 @@ int main()
 	printf("English : %d\n", eng);
 	printf("Math : %d\n", math);
 	printf("Sum : %d\n", sum);
+<<<<<<< HEAD
 	printf("Average : %d\n", sum/3);
+=======
+>>>>>>> f0d6174... report card: Show the sum of each grade
 	return 0;
 }
