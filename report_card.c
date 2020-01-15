@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+// test 6.2
 int main()
 {
 	int kor, eng, math;
@@ -16,5 +16,6 @@ int main()
 	printf("English : %d\n", eng);
 	printf("Math : %d\n", math);
 	printf("Sum : %d\n", sum);
+	printf("Average : %d\n", sum/3);
 	return 0;
 }
