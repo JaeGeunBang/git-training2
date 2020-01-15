@@ -1,5 +1,5 @@
 #include<stdio.h>
-// test 6.2
+// test 6.3
 int main()
 {
 	int kor, eng, math;
