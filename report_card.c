@@ -17,8 +17,12 @@ int main()
 	printf("Math : %d\n", math);
 	printf("Sum : %d\n", sum);
 <<<<<<< HEAD
+<<<<<<< HEAD
 	printf("Average : %d\n", sum/3);
 =======
 >>>>>>> f0d6174... report card: Show the sum of each grade
+=======
+	printf("Average : %d\n", sum/3);
+>>>>>>> cfc9749... report card: Get a average of grades
 	return 0;
 }
